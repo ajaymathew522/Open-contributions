@@ -1,2 +1,1 @@
-I haven't yet used OpenCV for any of my projects, but I have seen from my classmates with their projects of what OpenCV is capable of. 
-'Hofefully I'll get the opportunity to learn it while being with you guys.'
+I haven't yet used OpenCV for any of my projects, but I have seen from my classmates with their projects of what OpenCV is capable of. `Hofefully I'll get the opportunity to learn it while being with you guys.`
